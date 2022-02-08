@@ -3,7 +3,7 @@
 
 
 ## Hi, I'm Muharrem (John)
-A data scientist has  over 10 years of engineering expertise,  passion for scientific calculation projects. Data Visualization, Data Analysis, Business Analysis, Data Science Methodology, Databases and SQL Machine Learning, Artificial Intelligence & Development tools.
+A data scientist has  over ten years of engineering expertise,  passion for scientific calculation projects. Data Visualization, Data Analysis, Business Analysis, Data Science Methodology, Databases and SQL Machine Learning, Artificial Intelligence & Development tools.
 - I’m interested in: Data Analytics and Data Science
 - I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
 - I’m a : innovation enthusiast, nowadays learning Power BI 
