@@ -4,12 +4,12 @@
 
 ## Hi, I'm Muharrem (John)
 
-- 👀 I’m interested in Data Analytics and Data Science
-- 🔭 I’m currently working  working on  Deployment of ML and DL models with Streamlit and Heroku
-- 🌱 I’m a innovation enthusiast, nowadays learning Power BI 
-- 💞️ I’m looking to collaborate on ML and DL projects and their deployments
-- 🤔 I’m looking for help with job search
-- 💬 Ask me about anythings I can
+-I’m interested in: Data Analytics and Data Science
+-I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
+-I’m a : innovation enthusiast, nowadays learning Power BI 
+-I’m looking to collaborate on : ML and DL projects and their deployments
+-I’m looking for help : to be in part of a scientifical project
+-Ask me about anythings I can
 
 ##  Social
 
