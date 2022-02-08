@@ -1,4 +1,6 @@
-<img src:"https://github.com/muharremyasar/muharremyasar/blob/main/backphoto.jpg?raw=true">
+
+<a href="#" target="_blank"> <img src="https://github.com/muharremyasar/muharremyasar/blob/main/backphoto.jpg?raw=true" alt="Numpy" > </a>
+
 
 ## 👋 Hi there.   I'm Muharrem (John)
 
