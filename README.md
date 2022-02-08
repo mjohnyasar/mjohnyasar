@@ -30,7 +30,7 @@
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="40"/> </a>
 
 
-<p>&nbsp;</p>
+
 ## Python Libraries
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
