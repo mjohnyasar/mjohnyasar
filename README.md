@@ -4,13 +4,14 @@
 
 ## Hi, I'm Muharrem (John)
 
--I’m interested in: Data Analytics and Data Science
--I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
--I’m a : innovation enthusiast, nowadays learning Power BI 
--I’m looking to collaborate on : ML and DL projects and their deployments
--I’m looking for help : to be in part of a scientifical project
--Ask me about anythings I can
+- I’m interested in: Data Analytics and Data Science
+- I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
+- I’m a : innovation enthusiast, nowadays learning Power BI 
+- I’m looking to collaborate on : ML and DL projects and their deployments
+- I’m looking for help : to be in part of a scientifical project
+- Ask me about anythings I can
 
+<p>&nbsp;</p>
 ##  Social
 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:m.john.yasar@gmail.com)
@@ -20,6 +21,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muharremyasar" alt="muharremyasar" /> </p>
 
 
+<p>&nbsp;</p>
 ##  Data Visualization 
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>
@@ -28,6 +30,7 @@
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="40"/> </a>
 
 
+<p>&nbsp;</p>
 ## Python Libraries
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
@@ -36,6 +39,7 @@
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 
 
+<p>&nbsp;</p>
 ## Languages
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="120"/> </a>
@@ -43,6 +47,7 @@
 <a href="#" target="_blank"> <img src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" width="120"/> </a>
 
 
+<p>&nbsp;</p>
 ## Tools
 <a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="30"/> </a>
