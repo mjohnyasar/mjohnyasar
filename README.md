@@ -2,7 +2,7 @@
 <a href="#" target="_blank"> <img src="https://github.com/muharremyasar/muharremyasar/blob/main/backphoto.jpg?raw=true" alt="Numpy" > </a>
 
 
-## 👋 Hi there.   I'm Muharrem (John)
+## 👋 Hi, I'm Muharrem (John)
 
 - 👀 I’m interested in Data Analytics and Data Science
 - 🔭 I’m currently working  working on  Deployment of ML and DL models with Streamlit and Heroku
