@@ -9,7 +9,7 @@
 - 🌱 I’m a innovation enthusiast, nowadays learning Power BI 
 - 💞️ I’m looking to collaborate on ML and DL projects and their deployments
 - 🤔 I’m looking for help with job search
-- 💬 Ask me about anythings I can help
+- 💬 Ask me about anythings I can
 - 📫 How to reach me m.john.yasar@gmail.com
 
 ## 👨 Social
