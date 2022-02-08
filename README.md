@@ -54,5 +54,13 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
 
+<p>&nbsp;</p>
 
+## Statistics 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ziya3435&show_icons=true&locale=en" alt="ziya3435" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziya3435&" alt="ziya3435" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziya3435&show_icons=true&locale=en&layout=compact" alt="ziya3435" /></p>
 
