@@ -3,13 +3,13 @@
 
 
 ## Hi, I'm Muharrem (John)
-A dataist, data analyst and data scientist has over ten years of engineering expertise, a passion for scientific calculation projects.
+A DATAIST, DATA ANALYST and DATA SCIENTIST has over ten years of engineering expertise, a passion for scientific calculation projects.
 Data Visualization, Data Analysis, Databases and SQL, Business Analysis, Data Science Methodology,  Deep Learning, Machine Learning,  Artificial Intelligence  
-- I’m interested in: Data Analytics and Data Science
+- I’m a : innovation enthusiast 
 - I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
-- I’m a : innovation enthusiast, nowadays learning Power BI 
-- I’m looking to collaborate on : ML and DL projects and their deployments
-- I’m looking for help : to be in part of a scientifical project
+- I’m currently learning: Power BI 
+- I’m looking to collaborate on : deployment of models
+- I’m looking for help : to be in part of   scientifical projects
 - Ask me about anythings I can
 
 
