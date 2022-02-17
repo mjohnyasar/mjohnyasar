@@ -7,7 +7,7 @@ A DATAIST, DATA ANALYST and DATA SCIENTIST has over ten years of engineering exp
 Data Visualization, Data Analysis, Databases and SQL, Business Analysis, Data Science Methodology,  Deep Learning, Machine Learning,  Artificial Intelligence  
 - I’m a : innovation enthusiast 
 - I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
-- I’m currently learning: Power BI 
+- I’m currently learning: Power BI, Looker, Amplitude
 - I’m looking to collaborate on : deployment of models
 - I’m looking for help : to be in part of   scientifical projects
 - Ask me about anythings I can
