@@ -3,13 +3,13 @@
 
 
 ## Hi, I'm Muharrem (John)
-A DATAIST, DATA ANALYST and DATA SCIENTIST has over ten years of engineering expertise, a passion for scientific calculation projects.
+A certified DATA SCIENTIST has over ten years of engineering expertise over 5 years of Data Analyst, 2 years of Business Analyst experience, a passion for scientific calculation projects.
 Data Visualization, Data Analysis, Databases and SQL, Business Analysis, Data Science Methodology,  Deep Learning, Machine Learning,  Artificial Intelligence  
 - I’m a : innovation enthusiast 
 - I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
-- I’m currently learning: Power BI, Looker, Amplitude
 - I’m looking to collaborate on : deployment of models
 - I’m looking for help : to be in part of   scientifical projects
+- I’m currently practising: Power BI
 - Ask me about anythings I can
 
 
