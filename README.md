@@ -3,7 +3,7 @@
 
 
 ## Hi, I'm Muharrem (John)
-A certified DATA SCIENTIST has over ten years of engineering expertise over 5 years of Data Analyst, 2 years of Business Analyst experience, a passion for scientific calculation projects.
+A certified DATA SCIENTIST has over ten years of engineering expertise over 5 years of Data Analyst, 2 years of Business Analyst, a passion for scientific calculation projects.
 Data Visualization, Data Analysis, Databases and SQL, Business Analysis, Data Science Methodology,  Deep Learning, Machine Learning,  Artificial Intelligence  
 - I’m a : innovation enthusiast 
 - I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
