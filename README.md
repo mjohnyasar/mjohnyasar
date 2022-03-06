@@ -2,7 +2,7 @@
 <a href="#" target="_blank"> <img src="https://github.com/muharremyasar/muharremyasar/blob/main/backphoto.jpg?raw=true" alt="Numpy" > </a>
 
 
-## Hi, I'm Muharrem John
+## Hi, I'm M. John
 A certified DATA SCIENTIST has over ten years of engineering expertise over 5 years of Data Analyst, 2 years of Business Analyst, a passion for scientific calculation projects.
 Data Visualization, Data Analysis, Databases and SQL, Business Analysis, Data Science Methodology,  Deep Learning, Machine Learning,  Artificial Intelligence  
 - I’m a : innovation enthusiast 
