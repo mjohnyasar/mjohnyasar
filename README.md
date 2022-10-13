@@ -9,7 +9,7 @@ Data Visualization, Data Analysis, Databases and SQL, Business Analysis, Data Sc
 - I’m currently working on:  Deployment of ML and DL models with Streamlit and Heroku
 - I’m looking to collaborate on : deployment of models
 - I’m looking for help : to be in part of   scientifical projects
-- I’m currently practising: Power BI
+- I’m currently practising: SQL and Power BI
 - Ask me about anythings I can
 
 
